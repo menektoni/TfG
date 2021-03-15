@@ -1,5 +1,5 @@
 # Collective Risks Theory: Patterns and Strategies
-## Toni Domenech's final thesis of the degree of Physics with a Theretical Physics Major.
+## Toni Domenech's final thesis on the degree of Physics with a Theretical Physics Major.
 
 This project is a study of the behaviour of a user in a collective game.
 
