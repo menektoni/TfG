@@ -5,8 +5,11 @@ This project is a study of the behaviour of a user in a collective game.
 
 Here you'll find all the work done in the process.
 If you're searching for a general analysis and the work done in all the sections you can read the code in Data_Analysis.ipynb.
+
 If you want to dive deeper on how the clustering is done you can go to cluster.ipynb and there you will see whats in the paper and further representations on how much of each class is on each cluster (this part requires a bit of manual feature selection).
+
 If you want to go directly to the functions we've done to develop this project all of them are on the functions_tfg.py script.
+
 The 3 programs above are commented for me and for my understanding. Thats why maybe they aren't as clear as they should be. Any question you can write me at my mail tonidome@gmail.com and I will be pleased to answer. 
 
 ## Conclusions
