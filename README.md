@@ -1,9 +1,12 @@
 # Game Theory and Collective Phenomena
 ## Toni Domenech's final thesis on the degree of Physics with a Theretical Physics Major. Advisor: Prof. Josep Perelló.
 
+
 This project is a study of the behaviour of a user in a collective game.
 
 Here you'll find all the work done in the process.
+
+Packages necessary to compile the code: **regex, numpy, pandas, sklearn, matplotlib, seaborn, pyplot**
 If you're searching for a general analysis and the work done in all the sections you can read the code in Data_Analysis.ipynb.
 
 If you want to dive deeper on how the clustering is done you can go to cluster.ipynb and there you will see whats in the paper and further representations on how much of each class is on each cluster (this part requires a bit of manual feature selection).
